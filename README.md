@@ -1,11 +1,5 @@
 # Efficient Document Shadow Removal with Contrast-Aware Guidance
 
-
-## <a name="todo"></a>:climbing:TODO
-- [ ] Support Multi-gpu inference.
-- [x] Clean up the code and release the code along with the checkpoint.
-- [x] This repo is created.
-
 ## <a name="quick_start"></a>:flight_departure:Quick Start
 ###  Clone the repository
 ```
